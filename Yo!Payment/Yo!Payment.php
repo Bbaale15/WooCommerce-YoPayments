@@ -5,7 +5,7 @@ Plugin URI: http://www.iwarecorporation.com/
 Description: Extends WooCommerce with Yo!Payments gateway.
 Version: 1.0.2
 Author: Bbaale Emmy
-Author URI: http://www.iwarecorporation.com/
+Author URI: #
 */
 
 if ( ! defined( 'ABSPATH' ) )
